@@ -9,7 +9,7 @@
 ### 🎨 Final Design
 
 <div align=center>
-<img src="./src/images/Screenshot_1745788125.png" width="500" alt="Login page" />
+<img src="./src/images/Screenshot_1745788125.png" width="150" alt="Login page" />
  <img src="./src/images/Screenshot_1745788605.png" width="150" alt="success message" />
 </div>
 
